@@ -1,0 +1,9 @@
+/api_usage.log
+/api_usage_tracker.py
+/config.py
+/fetch_weather.py
+/requirements.txt
+/user_location.py
+/venv
+/weather_app.py
+/__pycache__
