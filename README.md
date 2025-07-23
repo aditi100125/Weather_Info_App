@@ -16,8 +16,7 @@ A simple Python desktop application built with **Tkinter** that fetches and disp
 
 ## 📸 Screenshot
 
-![Weather App GUI](https://via.placeholder.com/350x250?text=Weather+App+Screenshot)  
-> *(Replace with actual screenshot if available)*
+![Weather App GUI](/Assests/Sample_output.png)  
 
 ---
 
